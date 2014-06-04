@@ -1,0 +1,37 @@
+{
+  "name": "nodejstest",
+  "version": "0.0.1",
+  "main": "./lib/paginate.js",
+  "description": "Paginator",
+  "author": {
+    "name": "Victor",
+    "email": "fesenko.victor@gmail.com"
+  },
+  "homepage": "http://github.com/devprogramer/nodejstest/",
+  "directories": {
+    "lib": "./lib"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devprogramer/nodejstest"
+  },
+  "engines": {
+    "node": ">0.4.x"
+  },
+  "scripts": {
+  },
+  "readme": "m",
+  "readmeFilename": "",
+  "bugs": {
+    "url": "https://github.com/devprogramer/nodejstest/issues"
+  },
+  "_id": "paginate@0.0.1",
+  "_from": "paginate@"
+}
